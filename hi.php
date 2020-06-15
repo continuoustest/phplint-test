@@ -1,5 +1,5 @@
 <?php
 
-echo "HIIII !!!
+echo "HIII !!!
 
 
